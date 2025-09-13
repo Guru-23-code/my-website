@@ -26,7 +26,7 @@ const Clients = () => {
                         The website their team made for us is revolutionizing our business. Now , we're more than ever.
                     </p>
 
-                    <div className='w-1/2 mt-3 flex '>
+                    <div className='w-1/2 mt-3 flex px-5 '>
                         <img src="xx2.jpg" alt="" className='w-12' style={{ borderRadius: 50 }} />
                         <img src="profile_img_2.png" alt="" className='w-12'
                             style={{ position: "relative", right: 15 }} />
@@ -49,7 +49,7 @@ const Clients = () => {
 
                     </p>
 
-                    <div className='w-1/2 mt-3 flex '>
+                    <div className='w-1/2 mt-3 flex px-5 '>
                         <img src="xx3.jpg" alt="" className='w-12' style={{ borderRadius: 50 }} />
                         <img src="profile_img_3.png" alt="" className='w-12'
                             style={{ position: "relative", right: 15 }} />
@@ -74,7 +74,7 @@ const Clients = () => {
                         absolutely amazing !
                     </p>
 
-                    <div className='w-1/2 mt-3 flex  '>
+                    <div className='w-1/2 mt-3 flex  px-5'>
                         <img src="xx.jpg" alt="" className='w-12' style={{ borderRadius: 50 }} />
                         <img src="profile_img_1.png" alt="" className='w-12'
                             style={{ position: "relative", right: 15 }} />

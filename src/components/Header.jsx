@@ -4,7 +4,7 @@ import { motion } from "motion/react"
 const Header = () => {
   return (
     <div className=' min-h-screen w-full mb-4 bg-cover bg-center flex items-center' id='Home'
-    style={{backgroundImage:"url(/backg.jpg)"}}>
+    style={{backgroundImage:"url(/Header.png)"}}>
      <Navbar/>
      <motion.div
      initial={{opacity:0,y:100}}
@@ -15,7 +15,7 @@ const Header = () => {
      className='container mx-auto h-50 w-80% mb-30 px-10 md:pt-10 text-center border-white'>
         <h1 className='text-white text-8xl'>Driving growth with <span
          className='text-purple-500'>sites</span>.</h1>
-        <p className='text-center w-80 md:w-full text-white md:pt-8 py-5 pl-20 md:p-0'>
+        <p className='text-center w-80 md:w-full text-white md:pt-8 py-5 pl-10 md:p-0'>
             We crafting amazing websites for amazing companies</p>
         <div className='flex justify-center gap-5 text-white md:pt-10' >
             <a className=' border  border-gray-400 rounded px-4 py-2

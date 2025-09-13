@@ -22,15 +22,15 @@ const Services = () => {
                 <img src="framer.png" alt="" className='w-10' />
             </div>
             <div>
-                <p className=' text-purple-500'>Framer</p>
-           <p className='text-gray-400'>New contact from submission </p>
+                <p className=' text-purple-500 pl-3'>Framer</p>
+           <p className='text-gray-400 pl-3'>New contact from submission </p>
             </div>
-            <div>
+            <div >
                 <img src="diagarrow.png" alt="" className='w-8' />
             </div>
             
            </div> 
-           <div className='border border-gray-700 rounded-full w-8  p-3 ml-38 md:ml-50'>
+           <div className=' border border-gray-700 rounded-full w-8  p-3 ml-34 md:ml-50'>
 
             <img src="downarrow.png" alt="" className='' />
                
@@ -40,15 +40,15 @@ const Services = () => {
                 <img src="git.svg" alt="" className='w-12' />
             </div>
             <div>
-                <p className=' text-purple-500'>Aritable</p>
-           <p className='text-gray-400'>Add data's to the table faster </p>
+                <p className=' text-purple-500 pl-3'>Aritable</p>
+           <p className='text-gray-400 pl-3'>Add data's to the table faster </p>
             </div>
             <div>
                 <img src="diagarrow.png" alt="" className='w-8 mt-3'  />
             </div>
             
            </div>
-            <div className='border border-gray-700 rounded-full w-8  p-3 ml-38 md:ml-50'>
+            <div className='border border-gray-700 rounded-full w-8  p-3 ml-34 md:ml-50'>
 
             <img src="downarrow.png" alt="" className='w-' />
                
@@ -58,8 +58,8 @@ const Services = () => {
                 <img src="chat.svg" alt="" className='w-12' />
             </div>
             <div>
-                <p className=' text-purple-500'>OpenAI</p>
-           <p className='text-gray-400'>Write personalised message </p>
+                <p className=' text-purple-500 pl-3'>OpenAI</p>
+           <p className='text-gray-400 pl-3'>Write personalised message </p>
             </div>
             <div>
                 <img src="diagarrow.png" alt="" className='w-8 mt-3'  />
@@ -111,7 +111,7 @@ const Services = () => {
            <div className='border border-gray-700 hover:border-purple-500 p-5 rounded md:w-1/3'>
                 <div className='border border-gray-700 rounded relative '>
                     <div className='border border-gray-700 rounded-2xl bg-gradient-to-t from-purple-900 to-80% text-white
-                      absolute left-70 mt-3 w-20 px-5 py-1 '>+15%</div>
+                      absolute left-50 mt-7 w-20 px-5 py-1 '>+15%</div>
                      <img src="waves.png" alt="" className='h-75 w-full' />
                 </div>
                 <h1 className='text-3xl text-white pb-0  pt-20'>Business consulting</h1>
