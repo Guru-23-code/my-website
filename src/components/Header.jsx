@@ -4,7 +4,7 @@ import { motion } from "motion/react"
 const Header = () => {
   return (
     <div className=' min-h-screen w-full mb-4 bg-cover bg-center flex items-center' id='Home'
-    style={{backgroundImage:"url(/Header.png)"}}>
+    style={{backgroundImage:"url(/backg.jpg)"}}>
      <Navbar/>
      <motion.div
      initial={{opacity:0,y:100}}
